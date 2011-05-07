@@ -1,0 +1,19 @@
+body {
+  background-color: white;
+  font-family: 'IM Fell English SC', 'Georgia', serif;
+}
+
+.content {
+  margin-top: 1em !important;
+}
+
+#footer {
+  background: transparent;
+  text-align: right;
+}
+
+#preso {
+  box-shadow: none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+}
