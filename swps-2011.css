@@ -10,6 +10,20 @@ body {
   text-align: center;
 }
 
+table {
+  font-size: 2em;
+  margin: auto;
+}
+
+td {
+  text-align: left;
+  vertical-align: middle;
+}
+
+th {
+  padding: 0.5em;
+}
+
 .content {
   margin-top: 1em !important;
 }
