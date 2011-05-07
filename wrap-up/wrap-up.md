@@ -10,6 +10,18 @@
 
 
 
+!SLIDE bullets incremental
+
+# summary: disadvantages
+
+* own website: high costs, staff, downtime
+* hosted: moderate costs, less flexible
+* SaaS solution: limited features, dependency?
+* microblogging: minimal features, dependency
+* social networks: strong dependency!
+
+
+
 !SLIDE
 
 # questions?
