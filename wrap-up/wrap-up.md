@@ -1,6 +1,6 @@
 !SLIDE bullets incremental
 
-# summary
+# summary: advantages
 
 * full-fledged: own website
 * (hosted or with own hosting if appropriate)

@@ -2,7 +2,7 @@
 
 # microblogging
 
-* short messages: up to 140 characters
+* short messages: 140 characters
 * trivial to setup
 * notification, reminders
 * social network potential
