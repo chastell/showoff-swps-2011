@@ -90,6 +90,14 @@
 
 
 
+!SLIDE
+
+# WWW: how does it work?
+
+![internet](internet.png)
+
+
+
 !SLIDE bullets incremental
 
 # WWW: how does it work?
