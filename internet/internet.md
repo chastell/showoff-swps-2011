@@ -41,8 +41,8 @@
 * that was actually World Wide Web
 * there are other Internet services:
 * email
-* instant messaging
-* voice &amp; video communication
+* chat
+* voice &amp; video
 * (and other still)
 
 
