@@ -30,7 +30,7 @@
 
 !SLIDE
 
-#  
+# Building Online Presence
 
 ![WUT](wut.png)
 
@@ -40,7 +40,7 @@
 
 !SLIDE
 
-#  
+# Building Online Presence
 
 ![CiviCRM](civicrm.png)
 
