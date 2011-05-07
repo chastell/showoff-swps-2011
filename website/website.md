@@ -50,6 +50,40 @@
 
 # tools & technical details
 
+* which Content Management System?
 * Flash or HTML5?
+* which server stack?
 * different media types / devices?
 * particular user groups?
+
+
+
+!SLIDE bullets incremental
+
+# Internet, again
+
+![internet](internet.png)
+
+
+
+!SLIDE bullets incremental
+
+# hired hosting
+
+* usually takes care of the domain
+* offers a CMS
+* …or an easy way to setup one
+* upload WordPress or Drupal
+* choose a theme and you’re set
+
+
+
+!SLIDE bullets incremental
+
+# SaaS
+
+* Software as a Service
+* example: WordPress.com
+* `*.wordpress.com` domain: free
+* own domain &amp; additional features: paid
+* Groupon started as a WordPress blog
