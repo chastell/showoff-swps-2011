@@ -26,6 +26,8 @@
 
 # questions?
 
+<br />
+
 ### [chastell @ chastell.net](mailto:chastell@chastell.net)
 
 <br />
@@ -39,3 +41,7 @@
   <tr><th><img src='/image/wrap-up/twitter.png' /></th><td><a href='http://twitter.com/chastell'>@chastell</a> (en)<br /><a href='http://twitter.com/djciasto'>@djciasto</a> (pl)</td></tr>
   <tr><th><img src='/image/wrap-up/blip.png' /></th><td><a href='http://shot.blip.pl/'>shot.blip.pl</a> (pl)</td></tr>
 </table>
+
+<br />
+
+### [building-online-presence.heroku.com](http://building-online-presence.heroku.com)

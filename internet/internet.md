@@ -68,7 +68,7 @@
 
 !SLIDE bullets incremental
 
-# WWW: HTML over HTTP!
+# WWW: HTML over HTTP
 
 * World Wide Web
 * =
