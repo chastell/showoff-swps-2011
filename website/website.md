@@ -28,7 +28,7 @@
 
 * via URLs
 * via ad campaigns
-* via links on affilate pages
+* via links on affiliate pages
 * via social networks
 * via search engines
 
