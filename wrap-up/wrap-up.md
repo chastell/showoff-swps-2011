@@ -1,3 +1,15 @@
+!SLIDE bullets incremental
+
+# summary
+
+* full-fledged: own website
+* (hosted or with own hosting if appropriate)
+* worth considering: SaaS solution
+* quickest to setup: microblogging
+* added value: social networks
+
+
+
 !SLIDE
 
 # questions?
