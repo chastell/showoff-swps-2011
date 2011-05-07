@@ -31,3 +31,16 @@
 # Internet: how does it work?
 
 ![browser 3](browser.3.png)
+
+
+
+!SLIDE bullets incremental
+
+# Internet: not only WWW
+
+* that was actually World Wide Web
+* there are other Internet services:
+* email
+* instant messaging
+* voice &amp; video communication
+* (and other still)
