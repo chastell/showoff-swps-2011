@@ -35,3 +35,16 @@
 ![CiviCRM](civicrm.png)
 
 ## [civicrm.org](http://civicrm.org)
+
+
+
+!SLIDE bullets incremental
+
+# talk agenda
+
+* why online presence?
+* Internet: how does it work?
+* classic approach: a website
+* quick approach: a microblog
+* hey, social networks!
+* wrap up / questions
