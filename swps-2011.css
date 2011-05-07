@@ -30,6 +30,7 @@ th {
 
 #footer {
   background: transparent;
+  display: none;
   text-align: right;
 }
 
