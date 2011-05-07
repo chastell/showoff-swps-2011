@@ -85,8 +85,8 @@
 * user comes up with a URL
 * puts `www.pw.edu.pl/mapa` in a browser
 * browser to DNS: ‘where is `www.pw.edu.pl`?’
-* DNS to browser: ‘there: `194.29.151.5`’
-* browser to `194.29.151.5`: ‘HTML for `/mapa`?’
+* DNS to browser: ‘there: 194.29.151.5’
+* browser to 194.29.151.5: ‘HTML for `/mapa`?’
 
 
 
