@@ -38,7 +38,6 @@
 
 # Internet: not only WWW
 
-* that was actually World Wide Web
 * there are other Internet services:
 * email
 * chat
@@ -63,6 +62,7 @@
 * ‘somewhere over there’: server
 * various protocols: HTTP, IMAP, XMPP
 * request / response cycle
+* ‘live’ interaction somewhat simulated
 
 
 
@@ -75,7 +75,6 @@
 * HyperText Transfer Protocol
 * +
 * HyperText Markup Language
-* (mostly)
 
 
 
@@ -98,4 +97,5 @@
 * user goes to a search engine
 * types it the query
 * clicks on the results
+* clicks further
 * WWW: hyperlinked HTML pages

@@ -57,4 +57,3 @@
 * classic approach: a website
 * quick approach: a microblog
 * hey, social networks!
-* wrap up / questions
