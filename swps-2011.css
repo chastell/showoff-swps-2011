@@ -1,6 +1,13 @@
+a {
+  color: inherit;
+  font-family: 'IM Fell English', 'Georgia', serif;
+  text-decoration: none;
+}
+
 body {
   background-color: white;
   font-family: 'IM Fell English SC', 'Georgia', serif;
+  text-align: center;
 }
 
 .content {
