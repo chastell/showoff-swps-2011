@@ -6,8 +6,17 @@ a {
 
 body {
   background-color: white;
+  color: #059;
   font-family: 'IM Fell English SC', 'Georgia', serif;
   text-align: center;
+}
+
+h1 {
+  color: #07b;
+  font-size: 4em;
+  margin-bottom: 20px;
+  padding-top: 40px;
+  text-align: right;
 }
 
 table {
@@ -25,7 +34,11 @@ th {
 }
 
 .content {
-  margin-top: 1em !important;
+  margin-top: 0 !important;
+}
+
+.slide {
+  background: url(/image/textem.png);
 }
 
 #footer {
