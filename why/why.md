@@ -5,4 +5,5 @@
 * company website
 * offer of services
 * personal website / blog
-* contact medium
+* promotion
+* contact
