@@ -14,8 +14,8 @@
 
 # microblogging
 
-* Twitter
-* Blip
+* Twitter, Blip
 * website widgets
+* accessible via API
 * communication over SMS
 * dedicated mobile clients

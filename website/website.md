@@ -14,11 +14,11 @@
 
 # your own website
 
-* static content
-* dynamic content
-* multimedia
-* contact form?
+* static / dynamic content
+* (embedded?) multimedia
+* contact?
 * comments?
+* user-generated content?
 
 
 
@@ -40,9 +40,9 @@
 
 * webdeveloper
 * graphic designer
-* UI expert?
-* accessibility expert?
+* UI / accessibility experts?
 * SEO expert?
+* crowdsourcing / folksonomy?
 
 
 
@@ -80,9 +80,9 @@
 
 !SLIDE bullets incremental
 
-# SaaS
+# Software as a Service
 
-* Software as a Service
+* CMS is a web application
 * example: WordPress.com
 * `*.wordpress.com` domain: free
 * own domain &amp; additional features: paid
