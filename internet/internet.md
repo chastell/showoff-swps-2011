@@ -82,11 +82,11 @@
 
 # WWW: how does it work?
 
-* user comes up with a URL<br />like `http://www.pw.edu.pl/mapa`
-* puts it in the browser
-* the browser asks the DNS server<br />‘where is the `www.pw.edu.pl` domain hosted?’
-* DNS server replies ‘there: `194.29.151.5`’
-* browser asks `194.29.151.5` for `/mapa`<br />and gets HTML
+* user comes up with a URL
+* puts `www.pw.edu.pl/mapa` in a browser
+* browser to DNS: ‘where is `www.pw.edu.pl`?’
+* DNS to browser: ‘there: `194.29.151.5`’
+* browser to `194.29.151.5`: ‘HTML for `/mapa`?’
 
 
 
