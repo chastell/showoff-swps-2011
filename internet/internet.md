@@ -44,3 +44,11 @@
 * instant messaging
 * voice &amp; video communication
 * (and other still)
+
+
+
+!SLIDE
+
+# client-server model
+
+![internet](internet.png)
