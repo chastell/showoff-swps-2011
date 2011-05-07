@@ -8,6 +8,8 @@
 
 # Building Online Presence
 
+<br />
+
 ## From a Twitter Blog<br />and a Facebook Page<br />to a Full-Featured Website
 
 
@@ -16,13 +18,19 @@
 
 # Building Online Presence
 
+<br />
+
 ## From a Twitter Blog<br />and a Facebook Page<br />to a Full-Featured Website
+
+<br />
 
 ### by Piotr Szotkowski
 
 
 
 !SLIDE
+
+#  
 
 ![WUT](wut.png)
 
@@ -31,6 +39,8 @@
 
 
 !SLIDE
+
+#  
 
 ![CiviCRM](civicrm.png)
 
