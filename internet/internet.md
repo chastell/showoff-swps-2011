@@ -88,3 +88,14 @@
 * the browser asks the DNS server<br />‘where is the `www.pw.edu.pl` domain hosted?’
 * DNS server replies ‘there: `194.29.151.5`’
 * browser asks `194.29.151.5` for `/mapa`<br />and gets HTML
+
+
+
+!SLIDE bullets incremental
+
+# WWW: how does it work?
+
+* user goes to a search engine
+* types it the query
+* clicks on the results
+* WWW: hyperlinked HTML pages
